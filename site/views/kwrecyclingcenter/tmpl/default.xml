@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_KWRECYCLINGCENTER_KWRECYCLINGCENTER_VIEW_DEFAULT_TITLE">
+		<message>COM_KWRECYCLINGCENTER_KWRECYCLINGCENTER_VIEW_DEFAULT_DESC</message>
+	</layout>
+	<fields
+			name="request"
+			addfieldpath="/administrator/components/com_kwrecyclingcenter/models/fields"
+			>
+		<fieldset name="request">
+			<field
+					name="id"
+					type="kwrecyclingcenter"
+					label="COM_KWRECYCLINGCENTER_KWRECYCLINGCENTER_FIELD_FEDERALSTATE_LABEL"
+					description="COM_KWRECYCLINGCENTER_KWRECYCLINGCENTER_FIELD_FEDERALSTATE_DESC"
+					/>
+		</fieldset>
+	</fields>
+</metadata>
